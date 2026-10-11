@@ -22,5 +22,4 @@ To be added.
 
 ## Contact
 
-<!-- TODO: Add your professional email and academic profile links. -->
-Contact information will be added soon.
+Email: [xinye_xie@zju.edu.cn](mailto:xinye_xie@zju.edu.cn)
